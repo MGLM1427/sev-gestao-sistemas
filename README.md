@@ -53,6 +53,6 @@ O repositório de código está privado, pois contém configurações e dados de
 
 ---
 
-📫 Contato: [LinkedIn](https://www.linkedin.com/in/miguel-lima-barros-671714327)<img width="1871" height="922" alt="Captura de tela 2026-08-10 223435" src="https://github.com/user-attachments/assets/c7e7a5b6-d7b6-4f8a-bfd7-04a25a27f52b" />
+📫 Contato: [LinkedIn](https://www.linkedin.com/in/miguel-lima-barros-671714327)
 
 
